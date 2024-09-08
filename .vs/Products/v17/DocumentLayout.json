@@ -3,40 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5A92313A-C8BD-46BD-8D31-1137CE0D7A59}|Tests\\Tests.csproj|c:\\users\\rafar\\onedrive\\\u00E1rea de trabalho\\vscode projects\\c#\\products\\tests\\services\\servicestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A92313A-C8BD-46BD-8D31-1137CE0D7A59}|Tests\\Tests.csproj|solutionrelative:tests\\services\\servicestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283C7ECD-A47F-4568-AFC4-72E24D5D7E25}|Products\\Products.csproj|c:\\users\\rafar\\onedrive\\\u00E1rea de trabalho\\vscode projects\\c#\\products\\products\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283C7ECD-A47F-4568-AFC4-72E24D5D7E25}|Products\\Products.csproj|solutionrelative:products\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283C7ECD-A47F-4568-AFC4-72E24D5D7E25}|Products\\Products.csproj|c:\\users\\rafar\\onedrive\\\u00E1rea de trabalho\\vscode projects\\c#\\products\\products\\migrations\\productscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283C7ECD-A47F-4568-AFC4-72E24D5D7E25}|Products\\Products.csproj|solutionrelative:products\\migrations\\productscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{283C7ECD-A47F-4568-AFC4-72E24D5D7E25}|Products\\Products.csproj|c:\\users\\rafar\\onedrive\\\u00E1rea de trabalho\\vscode projects\\c#\\products\\products\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{283C7ECD-A47F-4568-AFC4-72E24D5D7E25}|Products\\Products.csproj|solutionrelative:products\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{283C7ECD-A47F-4568-AFC4-72E24D5D7E25}|Products\\Products.csproj|c:\\users\\rafar\\onedrive\\\u00E1rea de trabalho\\vscode projects\\c#\\products\\products\\context\\productscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{283C7ECD-A47F-4568-AFC4-72E24D5D7E25}|Products\\Products.csproj|solutionrelative:products\\context\\productscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{283C7ECD-A47F-4568-AFC4-72E24D5D7E25}|Products\\Products.csproj|c:\\users\\rafar\\onedrive\\\u00E1rea de trabalho\\vscode projects\\c#\\products\\products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{283C7ECD-A47F-4568-AFC4-72E24D5D7E25}|Products\\Products.csproj|solutionrelative:products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{283C7ECD-A47F-4568-AFC4-72E24D5D7E25}|Products\\Products.csproj|c:\\users\\rafar\\onedrive\\\u00E1rea de trabalho\\vscode projects\\c#\\products\\products\\services\\productsmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{283C7ECD-A47F-4568-AFC4-72E24D5D7E25}|Products\\Products.csproj|solutionrelative:products\\services\\productsmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{283C7ECD-A47F-4568-AFC4-72E24D5D7E25}|Products\\Products.csproj|c:\\users\\rafar\\onedrive\\\u00E1rea de trabalho\\vscode projects\\c#\\products\\products\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{283C7ECD-A47F-4568-AFC4-72E24D5D7E25}|Products\\Products.csproj|solutionrelative:products\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{283C7ECD-A47F-4568-AFC4-72E24D5D7E25}|Products\\Products.csproj|c:\\users\\rafar\\onedrive\\\u00E1rea de trabalho\\vscode projects\\c#\\products\\products\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{283C7ECD-A47F-4568-AFC4-72E24D5D7E25}|Products\\Products.csproj|solutionrelative:products\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{283C7ECD-A47F-4568-AFC4-72E24D5D7E25}|Products\\Products.csproj|c:\\users\\rafar\\onedrive\\\u00E1rea de trabalho\\vscode projects\\c#\\products\\products\\controllers\\productsmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{283C7ECD-A47F-4568-AFC4-72E24D5D7E25}|Products\\Products.csproj|solutionrelative:products\\controllers\\productsmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{283C7ECD-A47F-4568-AFC4-72E24D5D7E25}|Products\\Products.csproj|c:\\users\\rafar\\onedrive\\\u00E1rea de trabalho\\vscode projects\\c#\\products\\products\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{283C7ECD-A47F-4568-AFC4-72E24D5D7E25}|Products\\Products.csproj|solutionrelative:products\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{283C7ECD-A47F-4568-AFC4-72E24D5D7E25}|Products\\Products.csproj|c:\\users\\rafar\\onedrive\\\u00E1rea de trabalho\\vscode projects\\c#\\products\\products\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{283C7ECD-A47F-4568-AFC4-72E24D5D7E25}|Products\\Products.csproj|solutionrelative:products\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{283C7ECD-A47F-4568-AFC4-72E24D5D7E25}|Products\\Products.csproj|c:\\users\\rafar\\onedrive\\\u00E1rea de trabalho\\vscode projects\\c#\\products\\products\\services\\iproductsmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,48 +34,59 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductsManagerService.cs",
-              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\Services\\ProductsManagerService.cs",
-              "RelativeDocumentMoniker": "Products\\Services\\ProductsManagerService.cs",
-              "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\Services\\ProductsManagerService.cs",
-              "RelativeToolTip": "Products\\Services\\ProductsManagerService.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAmwDMAAAA1AAAA",
+              "DocumentIndex": 0,
+              "Title": "ServicesTests.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Tests\\Services\\ServicesTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Services\\ServicesTests.cs",
+              "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Tests\\Services\\ServicesTests.cs",
+              "RelativeToolTip": "Tests\\Services\\ServicesTests.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAEUAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T20:35:49.066Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductsManagerController.cs",
-              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\Controllers\\ProductsManagerController.cs",
-              "RelativeDocumentMoniker": "Products\\Controllers\\ProductsManagerController.cs",
-              "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\Controllers\\ProductsManagerController.cs",
-              "RelativeToolTip": "Products\\Controllers\\ProductsManagerController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T18:49:31.18Z",
+              "WhenOpened": "2024-09-08T16:45:35.843Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\Program.cs",
-              "RelativeDocumentMoniker": "Products\\Program.cs",
-              "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\Program.cs",
-              "RelativeToolTip": "Products\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAABwAAAAhAAAA",
+              "Title": "ProductsContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\Migrations\\ProductsContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Products\\Migrations\\ProductsContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\Migrations\\ProductsContextModelSnapshot.cs",
+              "RelativeToolTip": "Products\\Migrations\\ProductsContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T20:15:46.988Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-09-08T18:49:11.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Products\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "Products\\DTOs\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:29:06.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Products\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\Models\\Product.cs",
+              "RelativeToolTip": "Products\\Models\\Product.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAEwBMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:04:59.365Z",
               "EditorCaption": ""
             },
             {
@@ -100,93 +95,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\DTOs\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "Products\\DTOs\\ProductDTO.cs",
-              "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\DTOs\\ProductDTO.cs",
-              "RelativeToolTip": "Products\\DTOs\\ProductDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T22:53:43.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductsContext.cs",
-              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\Context\\ProductsContext.cs",
-              "RelativeDocumentMoniker": "Products\\Context\\ProductsContext.cs",
-              "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\Context\\ProductsContext.cs",
-              "RelativeToolTip": "Products\\Context\\ProductsContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T22:36:53.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Products\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Products\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T21:03:40.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\appsettings.json",
-              "RelativeDocumentMoniker": "Products\\appsettings.json",
-              "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\appsettings.json",
-              "RelativeToolTip": "Products\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-07T22:26:53.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Products\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\Models\\Product.cs",
-              "RelativeToolTip": "Products\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T19:49:10.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Products\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Products\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-06T22:38:30.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "IProductsManagerService.cs",
               "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\Services\\IProductsManagerService.cs",
               "RelativeDocumentMoniker": "Products\\Services\\IProductsManagerService.cs",
               "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\Services\\IProductsManagerService.cs",
               "RelativeToolTip": "Products\\Services\\IProductsManagerService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T21:57:05.438Z",
+              "WhenOpened": "2024-09-08T17:51:45.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsContext.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\Context\\ProductsContext.cs",
+              "RelativeDocumentMoniker": "Products\\Context\\ProductsContext.cs",
+              "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\Products\\Products\\Context\\ProductsContext.cs",
+              "RelativeToolTip": "Products\\Context\\ProductsContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:44:59.262Z",
               "EditorCaption": ""
             }
           ]

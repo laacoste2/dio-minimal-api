@@ -22,6 +22,8 @@ namespace Products.Models
         [Required]
         public string Nationality { get; set; }
 
+        public Product() { }
+
         public Product(Guid id, string name, string description, decimal price,string nationality)
         {
             Id = id;
